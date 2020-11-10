@@ -1,4 +1,4 @@
-# Linux Tweet App
+# Linux Tweet Apps
 
 This is very simple NGINX website that allows a user to send a tweet. 
 
